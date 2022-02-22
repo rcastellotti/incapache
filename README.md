@@ -1,8 +1,6 @@
 Nella terza e ultima esercitazione realizziamo un web server che vuole imitare il [web server Apache](http://www.apache.org/) ma
 riesce a fare molto meno. Per questo motivo lo chiameremo **incApache(incApache i**s **n**ot **c**omparable to **Apache**, pronunciato
-all'americana come "incapaci") e il suo logo è l'indiano UncaDunca:
-
-![uncadunca](uncadunca.jpg)
+all'americana come "incapaci") e il suo logo è l'indiano UncaDunca.
 
 incApache riconosce solo i **metodi HEAD e GET,** non è in grado di comprendere il metodo POST.
 
